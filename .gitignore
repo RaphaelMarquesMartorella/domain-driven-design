@@ -1,5 +1,5 @@
-/node_modules/
-/.vscode/
-/.swc/
+node_modules/
+.vscode/
+.swc/
 .swcrc
-/dist/
+dist/
